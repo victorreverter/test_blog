@@ -8,7 +8,7 @@ function Header() {
 
   return (
     <div id='container_logo' className='flex justify-center items-center'>
-      <img src={logo} className='w-[240px] cursor-pointer' onClick={()=>navigate('/testblog/')} />
+      <img src={logo} className='w-[240px] cursor-pointer' onClick={()=>navigate('/test-blog/')} />
 
       {/*<ul className='flex gap-4 md:gap-14'>
         <li className='hover:font-bold cursor-pointer' onClick={()=>navigate('/')}>Home</li>

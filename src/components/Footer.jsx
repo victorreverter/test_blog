@@ -14,7 +14,7 @@ function Footer() {
   return (
     <div id='footerContainer'>
       <div id="logoContainer" className='divider_elem'>
-        <img id='logoFooter' src={logoFooter} alt="logo_footer" onClick={()=>navigate('/testblog/')}/>
+        <img id='logoFooter' src={logoFooter} alt="logo_footer" onClick={()=>navigate('/test-blog/')}/>
       </div>
       <div id="socialContainer" className='divider_elem'>
         <h3>Get in touch</h3>
