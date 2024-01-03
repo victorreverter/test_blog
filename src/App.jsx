@@ -19,8 +19,8 @@ function App() {
         <Header />
 
         <Routes>
-          <Route path="/" element={<Home/>}></Route>
-          <Route path="/blog-detail/:id" element={<BlogDetail/>}></Route>
+          <Route path="/test-blog" element={<Home/>}></Route>
+          <Route path="/test-blog/blog-detail/:id" element={<BlogDetail/>}></Route>
         </Routes>
 
         {/* Footer */}
