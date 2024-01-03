@@ -2,7 +2,7 @@ import React from 'react'
 import { useNavigate } from 'react-router-dom'
 // import GlobalData from '../assets/blogpost_data.json'
 
-import profilePic from '../assets/images/profile-pic.png'
+import profilePic from '../images/profile-pic.png'
 
 // import cover1 from '../assets/posts_covers/1_baseball_on_fire.jpg'
 // import cover2 from '../assets/posts_covers/2_market_eastern_europe.jpg'

@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/images/logo.png'
+import logo from '../images/logo.png'
 // import { IoLogoYoutube } from 'react-icons/io5'
 import { useNavigate } from 'react-router-dom'
 

@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { useNavigate } from 'react-router-dom';
 
-import profilePic from '../assets/images/profile-pic.png'
+import profilePic from '../images/profile-pic.png'
 // import GlobalData from '../assets/blogpost_data.json'
 
 function IntroPost(PostData) {

@@ -2,7 +2,7 @@ import React from 'react'
 import Search from '../components/Search'
 import IntroPost from '../components/IntroPost'
 import Blogs from '../components/Blogs'
-import GlobalData from '../assets/blogpost_data.json'
+import GlobalData from '../blogpost_data.json'
 
 
 function Home() {

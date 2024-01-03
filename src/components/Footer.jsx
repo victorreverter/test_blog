@@ -1,11 +1,11 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom'
 
-import logoFooter from '../assets/images/logo_white.png'
+import logoFooter from '../images/logo_white.png'
 
-import ig_icon from '../assets/images/Instagram.png'
-import lkd_icon from '../assets/images/LinkedIn.png'
-import x_icon from '../assets/images/X.png'
+import ig_icon from '../images/Instagram.png'
+import lkd_icon from '../images/LinkedIn.png'
+import x_icon from '../images/X.png'
 
 
 function Footer() {

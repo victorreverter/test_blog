@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react'
 import { useParams, Link } from 'react-router-dom'
-import GlobalData from '../assets/blogpost_data.json'
+import GlobalData from '../blogpost_data.json'
 
-import profilePic from '../assets/images/profile-pic.png'
+import profilePic from '../images/profile-pic.png'
 
 function BlogDetail() {
   const {id}=useParams();

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import banner from '../assets/images/banner_search.png'
+import banner from '../images/banner_search.png'
 // import { IoSearchOutline } from 'react-icons/io5'
 
 function Search() {
