@@ -17,10 +17,12 @@ function Home() {
       <Search />
       {/* IntroPost */}
       {/* <IntroPost /> */}
-      {PostsData.length>0 ? <IntroPost PostData={PostsData[0]} /> :null}
+      <IntroPost PostData={PostsData[0]} />
+      {/* {PostsData.length>0 ? <IntroPost PostData={PostsData[0]} /> :null} */}
       {/* Blogs */}
       {/* <Blogs />   */}
-      {PostsData.length>0 ? <Blogs PostData={PostsData} /> :null}
+      <Blogs PostData={PostsData} />
+      {/* {PostsData.length>0 ? <Blogs PostData={PostsData} /> :null} */}
     </div>
   )
 }
